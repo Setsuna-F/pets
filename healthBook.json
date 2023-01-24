@@ -2,10 +2,19 @@
   "healthBooks":[
     {
       "healthBook": {
-        "id": "123_healthBook_01"
-        "petId": "123_AZERTY_02"
-        "notes": ["path/to/json/note_1", "path/to/json/note_2", "path/to/json/note_3", "path/to/json/note_4"]
-        ""
+        "id": "123_healthBook_01",
+        "petId": "123_AZERTY_02",
+        "notes": ["path/to/json/note_1", "path/to/json/note_2", "path/to/json/note_3", "path/to/json/note_4"],
+        "lastReminders": ["path/to/json/last/reminder_1", "path/to/json/last/eminder_2"],
+        "reminders": ["path/to/json/reminder_1", "path/to/json/reminder_2", "path/to/json/reminder_3"],
+        "exams": [
+          {
+            "type":2
+            "consultation":false,
+            "date":1234543234,
+            "description":""
+          },
+        ]
       }
     }
   ]
