@@ -1,0 +1,16 @@
+{
+  "pets":[
+    {
+      "id":"123-AZERTY-01",
+      "name":"Haru"
+    },
+    {
+      "id":"123-AZERTY-02",
+      "name":"Cloud"
+    },
+    {
+      "id":"123-AZERTY-03",
+      "name":"Casca"
+    }
+  ]
+}
