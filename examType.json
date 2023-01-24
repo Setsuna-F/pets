@@ -1,1 +1,12 @@
-
+{
+  "examType": [
+    {
+      "id":1,
+      "name": "worming"
+    },
+    {
+      "id":2,
+      "name": "vaccination"
+    }
+  ]
+}
