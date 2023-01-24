@@ -6,7 +6,8 @@
       "birth":"1519211809934",
       "sex":0,
       "animal":1,
-      "sterilized":true
+      "sterilized":true,
+      "indoor":true
     },
     {
       "id":"123-AZERTY-02",
@@ -14,7 +15,8 @@
       "birth":"1519211809334",
       "sex":1,
       "animal":1,
-      "sterilized":true
+      "sterilized":true,
+      "indoor":true
     },
     {
       "id":"123-AZERTY-03",
@@ -22,7 +24,8 @@
       "birth":"1519211803934",
       "sex":0,
       "animal":1,
-      "sterilized":true
+      "sterilized":true,
+      "indoor":true
     }
   ]
 }
