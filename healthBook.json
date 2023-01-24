@@ -1,0 +1,12 @@
+{
+  "healthBooks":[
+    {
+      "healthBook": {
+        "id": "123_healthBook_01"
+        "petId": "123_AZERTY_02"
+        "notes": ["path/to/json/note_1", "path/to/json/note_2", "path/to/json/note_3", "path/to/json/note_4"]
+        ""
+      }
+    }
+  ]
+}
