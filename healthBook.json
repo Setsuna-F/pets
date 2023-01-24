@@ -12,7 +12,13 @@
             "type":2
             "consultation":false,
             "date":1234543234,
-            "description":""
+            "description":"RAS, traitement fait à la maison."
+          },
+          {
+            "type":1
+            "consultation":true,
+            "date":1234543234,
+            "description":"Des difficultés à avaler le vermifuge. Il bavé puis a mordu le veterinaire."
           },
         ]
       }
