@@ -8,7 +8,13 @@
       "sex":0,
       "animal":1,
       "sterilized":true,
-      "indoor":true
+      "indoor":true,
+      "mainImageUrl":[
+        "link/grey-white-cat.jpg"
+      ],
+      "photoUrls":[
+        "link/grey-white-cat.jpg"
+      ]
     },
     {
       "id":"123-AZERTY-02",
@@ -18,7 +24,13 @@
       "sex":1,
       "animal":1,
       "sterilized":true,
-      "indoor":true
+      "indoor":true,
+      "mainImageUrl":[
+        "link/white-cat.jpg"
+      ],
+      "photoUrls":[
+        "link/white-cat.jpg"
+      ]
     },
     {
       "id":"123-AZERTY-03",
@@ -28,7 +40,13 @@
       "sex":0,
       "animal":1,
       "sterilized":true,
-      "indoor":true
+      "indoor":true,
+      "mainImageUrl":[
+        "link/black-cat.jpg"
+      ],
+      "photoUrls":[
+        "link/black-cat.jpg"
+      ]
     }
   ]
 }
