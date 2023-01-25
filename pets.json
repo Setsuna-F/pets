@@ -1,5 +1,4 @@
-{
-  "pets":[
+[
     {
       "id":"123-AZERTY-01",
       "healthBookId": "123_healthBook_01",
@@ -48,5 +47,4 @@
         "link/black-cat.jpg"
       ]
     }
-  ]
-}
+]
